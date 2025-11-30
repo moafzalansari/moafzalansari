@@ -4,8 +4,8 @@
   
   <h1>Hello, Tech Explorer! I'm Afjal Ansari 🚀</h1>
     <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="650" height="300" alt="Animated Coding Background" style="border-radius: 10px; margin-bottom: 20px;" />
-<br><img src="https://hits.seeyou.at/returns/count/top/urtypeafjal.svg?style=flat-square&label=Visitors&color=blue&ran=1" alt="Profile views" />
-
+<br>
+<img src="https://komarev.com/ghpvc/?username=urtypeafjal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
   <h3>Connect with me:.</h3>
   
