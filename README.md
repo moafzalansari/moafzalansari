@@ -4,7 +4,7 @@
   
   <h1>Hello, Tech Explorer! I'm Afjal Ansari 🚀</h1>
     <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="650" height="300" alt="Animated Coding Background" style="border-radius: 10px; margin-bottom: 20px;" />
-<img src="https://profile-counter.glitch.me/urtypeafjal/count.svg" alt="My be Loading pe h" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=urtypeafjal&style=for-the-badge" alt="Profile Views" />
 
   
   <h3>Connect with me:.</h3>
