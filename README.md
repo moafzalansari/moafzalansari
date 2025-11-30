@@ -85,7 +85,7 @@
 
 ### 📊 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urtypeafjal&show_icons=true&theme=dark&hide_border=true&title_color=BB86FC&icon_color=03DAC6&text_color=E0E0E0&line_height=20" height="180" alt="Loading 🤡" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=urtypeafjal&show_icons=true&theme=dark&hide_border=true&title_color=BB86FC&icon_color=03DAC6&text_color=E0E0E0&line_height=20" height="180" alt="Loading 🤡" />
   </div>
   
   <div align="center">
