@@ -32,22 +32,17 @@
 ---
 
 <div align="center">
-  <h2>🌟 A Little Bit About Me</h2>
-  <p>
-     *Hi, I'm Mo Afjal Ansari, a passionate coder from India!* My philosophy is simple: *I Love Code*. I thrive on exploring new technologies and am constantly pushing boundaries to create impactful digital experiences. My journey is all about building awesome websites, transforming creative ideas into functional and visually appealing solutions.
 
+## 👨‍💻 About Me
 
-  </p>
-  <ul>
-    <li>🔭 *My Core Focus:* Crafting robust and responsive web applications.
-</li>
-    <li>🌱  *Learning & Growing:* Always diving into new frameworks and sharpening my skills to master every challenge.
-</li>
-    <li>👯 I’m looking to collaborate on *Open Source projects* that solve real-world problems.</li>
-    <li>💬  *Let's Connect:* I'm keen to discuss web trends, exciting tech, or collaborative projects.
-</li>
-    <li>⚡ Fun fact: I enjoy debugging code late at night with a cup of chai!</li>
-  </ul>
+🎓 B.Tech CSE Student from India 🇮🇳
+
+💻 Passionate about Technology, Data Analytics, and Web Development.
+
+📊 Interested in transforming data into meaningful insights and building practical solutions.
+
+🚀 Always learning new skills, exploring modern tools, and working on projects that create real impact.
+
 </div>
 
 ---
