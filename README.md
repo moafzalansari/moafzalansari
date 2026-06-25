@@ -14,7 +14,7 @@
     <a href="mailto:afjalazam001@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://www.linkedin.com/in/afzal-azam-81487b37a">
+    <a href="https://www.linkedin.com/in/mo-afjal-ansari-55a795419">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="https://www.instagram.com/af7.x_?igsh=MmliZGtybGtqN2N0">
