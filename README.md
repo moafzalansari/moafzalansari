@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Web+Developer;Python+Learner;Always+Learning+New+Things" />
 <br>
     <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700" />
 </p>
 
 <br>
