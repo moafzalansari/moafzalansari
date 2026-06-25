@@ -1,81 +1,75 @@
 
 <div align="center">
+
 <p>بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
-  
-  <h1>Hello, Tech Explorer! I'm Afjal Ansari 🚀</h1>
-    <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="650" height="300" alt="Animated Coding Background" style="border-radius: 10px; margin-bottom: 20px;" />
+
+# 👋 Hey, I'm Afzal Ansari
+
+### 🎓 B.Tech CSE Student | 📊 Data Analytics Enthusiast | 💻 Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Web+Developer;Python+Learner;Always+Learning+New+Things" />
+
 <br>
-<img src="https://komarev.com/ghpvc/?username=urtypeafjal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
-  
- <h3>Connect with me:.</h3>
-  
-  <p>
-    <a href="mailto:afjalazam001@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/mo-afjal-ansari-55a795419">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://www.instagram.com/_cyvora?igsh=MmliZGtybGtqN2N0">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-    </a>
-    <a href="https://x.com/af7x_7?t=IlWDb8OZkn2WiT1cjrqmMw&s=09">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-    </a>
-  </p>
-  
-
-  
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-🎓 B.Tech CSE Student from India 🇮🇳
-
-💻 Passionate about Technology, Data Analytics, and Web Development.
-
-📊 Interested in transforming data into meaningful insights and building practical solutions.
-
-🚀 Always learning new skills, exploring modern tools, and working on projects that create real impact.
+<img src="https://komarev.com/ghpvc/?username=moafzalansari&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-### 🛠 My Digital Arsenal (Tech Stack & Tools)
+## 🌟 About Me
+
+- 🎓 B.Tech Computer Science Student from India 🇮🇳
+- 📊 Interested in Data Analytics and Data Visualization
+- 💻 Passionate about Web Development & Technology
+- 🐍 Learning Python, SQL, and Data Analysis
+- 🚀 Building projects and improving skills every day
+- 🎯 Goal: Turn data into meaningful insights and practical solutions
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
-  <br/>
-  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  
-  <br/>
-  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="mailto:afjalazam001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-  <br/>
-  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://www.linkedin.com/in/mo-afjal-ansari-55a795419">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/_cyvora">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/af7x_7">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,python,java,mongodb,mysql,git,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ Recipe Book App
+Search and explore recipes with a clean and user-friendly interface.
+
+### 🚗 Car Rental Website
+Modern responsive car rental platform.
+
+### 🧠 Quiz App
+Interactive quiz application built using JavaScript.
 
 ---
 
@@ -87,12 +81,34 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moafzalansari&layout=compact&theme=github_dark&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moafzalansari&theme=github-dark&hide_border=true" />
-
 </div>
+
+<br>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=moafzalansari&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moafzalansari&theme=github-dark&hide_border=true" width="100%"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=moafzalansari&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Quote
+
+"Learn • Build • Improve • Repeat"
 
 </div>
