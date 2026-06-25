@@ -7,8 +7,8 @@
 ### 🎓 B.Tech CSE Student | 📊 Data Analytics Enthusiast | 💻 Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Web+Developer;Python+Learner;Always+Learning+New+Things" />
-
-    <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="650" height="300" alt="Animated Coding Background" style="border-radius: 10px; margin-bottom: 20px;" />
+<br>
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="700" alt="Coding Workspace" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=urtypeafjal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
