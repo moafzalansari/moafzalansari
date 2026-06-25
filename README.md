@@ -79,12 +79,20 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=urtypeafjal&show_icons=true&theme=dark&hide_border=true&title_color=BB86FC&icon_color=03DAC6&text_color=E0E0E0&line_height=20" height="180" alt="Loading 🤡" />
-  </div>
-  
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtypeafjal&layout=compact&theme=dark&hide_border=true&title_color=BB86FC&text_color=E0E0E0&langs_count=6" height="180" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moafzalansari&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moafzalansari&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moafzalansari&theme=github-dark&hide_border=true" />
+
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=moafzalansari&theme=github-dark-blue&hide_border=true" />
+
+</div>
