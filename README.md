@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Web+Developer;Python+Learner;Always+Learning+New+Things" />
 <br>
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="700" alt="Coding Workspace" />
+    <img src="https://user-images.githubusercontent.com/74038190/212749726-d36f5f35-8ef8-4b7e-a8f0-7eeb8dcb2f5c.gif" width="700" alt="Coding Night" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=urtypeafjal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
