@@ -7,100 +7,168 @@
 ### 🎓 B.Tech CSE Student | 📊 Data Analytics Enthusiast | 💻 Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Web+Developer;Python+Learner;Always+Learning+New+Things" />
-<br>
-    <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700" />
-</p>
+
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=urtypeafjal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+ <img src="https://img.shields.io/github/followers/moafzalansari?label=Followers&color=blue&style=flat" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/moafzalansari?label=Stars&color=blue&style=flat" alt="GitHub Stars"/>
+</p>
 
-  
- <h3>Connect with me:.</h3>
-  
-  <p>
-    <a href="mailto:afjalazam001@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/mo-afjal-ansari-55a795419">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://www.instagram.com/_uhhgh?igsh=MmliZGtybGtqN2N0">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-    </a>
-    <a href="https://x.com/af7x_7?t=IlWDb8OZkn2WiT1cjrqmMw&s=09">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-    </a>
-  </p>
-  
+<a href="https://github.com/moafzalansari">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:afzalazam001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://moafzalansari.github.io/MO-AFZAL/">
+  <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-  
 </div>
 
 ---
-
-<div align="center">
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE Student from India 🇮🇳
+- 🎓 Pursuing B.Tech in Computer Science and Engineering.
+- 📊 Interested in Data Analytics, Python, SQL, and data visualization.
+- 🌱 Continuously learning programming and software development.
+- 🔭 Currently working on an **IoT Health Monitoring** project.
+- 🤖 Exploring AI-powered applications and practical solutions.
+- 🤝 Open to collaboration, learning, and building meaningful projects.
+- 📫 Email: **afzalazam001@gmail.com**
 
-💻 Passionate about Technology, Data Analytics, and Web Development.
+---
 
-📊 Interested in transforming data into meaningful insights and building practical solutions.
+## 🚀 Featured Projects
 
-🚀 Always learning new skills, exploring modern tools, and working on projects that create real impact.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 AI Health Monitoring
+
+An IoT-based healthcare project focused on health data monitoring.
+
+**Focus:** IoT · Healthcare · Software Development
+
+[![Repository](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/moafzalansari/AI-Health-Monitoring)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Virtual Teacher
+
+An AI-powered learning project exploring interactive education.
+
+**Focus:** Python · AI · Web Development
+
+[![Repository](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/moafzalansari/AI-Virtual-Teacher)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 HunarHub
+
+A web development project focused on building useful digital experiences.
+
+**Focus:** Web Development · Collaboration
+
+[![Repository](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/moafzalansari/HunarHub)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Personal Portfolio
+
+My portfolio website showcasing my background and projects.
+
+**Focus:** Portfolio · Web Development
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Website-0e75b6?style=for-the-badge&logo=googlechrome)](https://moafzalansari.github.io/MO-AFZAL/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,react,nodejs,django,flutter,git,github,aws&perline=6" alt="Languages and tools"/>
 
 </div>
 
 ---
 
-### 🛠 My Digital Arsenal (Tech Stack & Tools)
-<p align="center">
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
-  <br/>
-  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  
-  <br/>
-  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-  <br/>
-  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=moafzalansari&show_icons=true&theme=github_dark&hide_border=true" />
+<a href="https://github.com/moafzalansari">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=moafzalansari&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/moafzalansari">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moafzalansari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moafzalansari&layout=compact&theme=github_dark&hide_border=true" />
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moafzalansari&theme=github-dark&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=moafzalansari&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=moafzalansari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
+---
+
+## 📈 Contribution & Commit Activity
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=moafzalansari&theme=github-dark-blue&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moafzalansari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution and Commit Activity Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/moafzalansari/moafzalansari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+> **To activate the snake animation:** create a GitHub Actions workflow using the [Platane/snk](https://github.com/Platane/snk) project and configure it to publish the generated SVG to the `output` branch. Until then, this image may not load.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mo-afjal-ansari-55a795419">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/_uhhgh">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/af7x_7">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<br/><br/>
+
+**⭐ Thanks for visiting my profile!**
+
+*Keep Learning · Keep Building · Keep Growing 🚀*
 
 </div>
